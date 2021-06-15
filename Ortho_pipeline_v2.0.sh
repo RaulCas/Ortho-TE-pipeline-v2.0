@@ -28,8 +28,8 @@ reference_fasta_file="genome_1.fa"
 
 # Species 2 (here query):
 
-query_genome_file="genome_1.fai"  # bedtools genome file, NOT fasta genome file
-query_fasta_file="genome_1.fa"
+query_genome_file="genome_2.fai"  # bedtools genome file, NOT fasta genome file
+query_fasta_file="genome_2.fa"
 LTRharvest_annot_query="TE_annotation.gff"   # Important! Third field should contain: Species_TE_1, Species_TE_2, ...
 
 
