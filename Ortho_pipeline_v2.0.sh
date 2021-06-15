@@ -4,7 +4,7 @@
 # Script to detect putative orthologous TEs, deletions and insertions between two close genomes
 # 
 # USAGE: 
-#	 python LTR_pipeline_FINAL.sh flank_size 
+#	 bash Ortho_pipeline_v2.0.sh flank_size 
 #
 # DEPENDENCIES:
 #	- BBmap
